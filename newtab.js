@@ -1,0 +1,1 @@
+window.open("https://my.yahoo.com/", "_self");
